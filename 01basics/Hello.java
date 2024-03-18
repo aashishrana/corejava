@@ -11,5 +11,9 @@ public class Hello {
         int num2 = 5;
         System.out.println(num1 + num2);
         // System.out.println(sizeof(num1));
+        System.out.println("Area of circle");
+        int r = 5;
+        System.out.println(3.14 * r *r);
+
     }
 }
