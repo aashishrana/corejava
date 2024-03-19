@@ -30,7 +30,7 @@ class Student {
 
     Student(String name , int age) {
         this.name = name;
-        this.age = age;
+        this.rollno = age;
     }
 }
 
