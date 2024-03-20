@@ -1,4 +1,5 @@
 import java.util.*;
+import bank;
 class Shape {
     String color;
     public void area() {
