@@ -9,3 +9,8 @@ Constructor name and  class name must be same
 Constructor are mainly 2 types non paremetrize and paremetrize constructor
 Polymorphism mainly  2 types compile time (Function overloading) , run time(Function overriding)
 Java contains 2 type of packages inbuilt packages and userdefined packages
+
+To achive multiple inheritance we use interfaces.
+
+
+Object class is a parent class of all class in java
